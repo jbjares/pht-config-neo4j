@@ -12,6 +12,9 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
  * Configuration class for the Neo4j instance running
  * on the de.NBI cloud for the Personal Health APITrain Project
  *
+ * This class configures Neo4j for the deployment on the de.NBI cloud
+ *
+ * @author Lukas Zimmermann
  */
 @Configuration
 @EnableTransactionManagement
